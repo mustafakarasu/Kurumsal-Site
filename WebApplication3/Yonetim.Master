@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Yonetim.master.cs" Inherits="WebApplication3.Yonetim" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Yönetim Paneli</title>
+
+    <meta name="description" content="Buraya yazılan herşey sonucun açıklanmasında gösterilir." />
+    <meta name="robots" content="noindex,nofollow"/>
+    <meta name="author" content="Siteyi yapan kişinin adı soyadı"/>
+
+    <!--Jquery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <!--CKEditor-->
+    <script src="Content/ckeditor/ckeditor.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            CKEDITOR.replace("editor");
+        });
+    </script>
+
+
+    <link href="Content/yonetim.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" enctype="multipart/form-data">
+        <div>
+            <header>
+                <h1 class="sol">Yönetim Paneli</h1>
+                <nav class="sag">
+                    <a href="/YonetimAnasayfa.aspx">Anasafya</a>
+                    <a href="/Icerikler.aspx">İçerikler</a>
+                    <a href="/Referanslar.aspx">Referanslar</a>
+                    <a href="/Ayar.aspx">Site Ayarları</a>
+                </nav>
+                <div class="clear"></div>
+            </header>
+
+            <section>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </section>
+
+            <footer>
+                Copyright 2016 ERP4 Sınıfı
+            </footer>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,159 @@
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\ApplicationInsights.config
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\roslyn\csc.exe
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\roslyn\vbc.exe
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\roslyn\VBCSCompiler.exe
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\WebApplication3.dll.config
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\WebApplication3.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\WebApplication3.pdb
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Antlr3.Runtime.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\EntityFramework.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\EntityFramework.SqlServer.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AI.Web.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Google.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Newtonsoft.Json.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Owin.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\System.Web.Optimization.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\System.Web.Providers.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\WebGrease.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AI.Web.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\System.Web.Optimization.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Antlr3.Runtime.pdb
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Newtonsoft.Json.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\EntityFramework.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\EntityFramework.SqlServer.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\System.Web.Providers.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Google.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\obj\Debug\WebApplication3.dll
+c:\users\section-1\documents\visual studio 2015\KurumsalSite\KurumsalSite\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\ApplicationInsights.config
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\roslyn\csc.exe
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\roslyn\vbc.exe
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\WebApplication3.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Antlr3.Runtime.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\EntityFramework.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\EntityFramework.SqlServer.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AI.Web.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Newtonsoft.Json.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Owin.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\System.Web.Optimization.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\System.Web.Providers.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\WebGrease.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\EntityFramework.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\EntityFramework.SqlServer.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AI.Web.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\System.Web.Optimization.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Newtonsoft.Json.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\System.Web.Providers.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Mustafa\Desktop\GitHub\05.Kurumsal Site\Ekim19_20\KurumsalSite\WebApplication3\obj\Debug\WebApplication3.pdb
